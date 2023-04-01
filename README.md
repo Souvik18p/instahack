@@ -1,28 +1,7 @@
 <p align="center">
-<a href="https://instagram.com/s.o.u.v.i.k18"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-PakistN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://instagram.com/s.o.u.v.i.k18"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-India-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-instahack-green.svg"></a>
-<a href="https://guthub.com/evildevill/instahack"><img title="Version" src="https://img.shields.io/badge/Version-4.3.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
-</p>
-<p align="center">
-<a href="https://github.com/evildevill/instahack"><img title="instahack" width="50%" src="https://github.com/evildevill/instahack/blob/master/assets/20210219_144319.jpg"></a>
-</p>
-<p align="center">
-<a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker wasii-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-<p align="center">
-<a href="https://github.com/evildevill"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/evildevill"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/evildevill"><img title="Followers" src="https://img.shields.io/github/followers/evildevill?color=blue&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Stars" src="https://img.shields.io/github/stars/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Forks" src="https://img.shields.io/github/forks/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Watching" src="https://img.shields.io/github/watchers/evildevill/instahack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
 
 ## ABOUT TOOL :
 
